@@ -1,0 +1,8 @@
+{
+  "domain": "https://js.work",
+  "skipext": ["pdf", "xml"],
+  "parserobots": false,
+  "debug": true,
+  "output": "public/sitemap.xml",
+  "exclude": ["action=edit"]
+}
