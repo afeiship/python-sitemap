@@ -1,0 +1,11 @@
+{
+  "name": "python-sitemap",
+  "version": "1.0.0",
+  "description": "Simple script to crawl websites and create a sitemap.xml",
+  "scripts": {
+    "config:init": "cp config/config.example.json config/config.json"
+  },
+  "keywords": [],
+  "author": "afeiship",
+  "license": "MIT"
+}
